@@ -1,7 +1,7 @@
 # Passenger-Counter-App
 ![counter2](https://user-images.githubusercontent.com/91335480/160958997-c4e6c284-22ab-45a3-b833-df40848706b0.gif)
 <p>This app can count and save the number of passengers coming to the station.</p>
-Live Demo:
+Live Demo:https://bibityping.github.io/Passenger-Counter-App/
 <h2>Build With</h2>
 <hr>
 🟤HTML<br>
