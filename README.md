@@ -3,12 +3,10 @@
 <p>This app can count and save the number of passengers coming to the station.</p>
 Live Demo:https://bibityping.github.io/Passenger-Counter-App/
 <h2>Build With</h2>
-<hr>
 🟤HTML<br>
 🟡CSS<br>
 🟠Javascript<br>
 <h2>Project Purpose</h2>
-<hr>
 <h4>📌JavaScript Practice<br></h4>
 ☑️script tag<br>
 ☑️variables<br>
